@@ -1,4 +1,5 @@
-<div style="background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FElPolloLocoMexico%2F&psig=AOvVaw2Q0rzGdWpW8ma4deMuDgjw&ust=1694562485185000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjwgKrfo4EDFQAAAAAdAAAAABAE'); background-size: cover; background-position: center; height: 300px;">
+![Texto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FElPolloLocoMexico%2F&psig=AOvVaw2Q0rzGdWpW8ma4deMuDgjw&ust=1694562485185000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjwgKrfo4EDFQAAAAAdAAAAABAE)
+sa=i&url=https%3A%2F%2Fwww.facebook.com%2FElPolloLocoMexico%2F&psig=AOvVaw2Q0rzGdWpW8ma4deMuDgjw&ust=1694562485185000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjwgKrfo4EDFQAAAAAdAAAAABAE'); background-size: cover; background-position: center; height: 300px;">
 <h1 align="center">Hi 👋, Mi nombre es Axel Guadalupe Jiménez Maltos</h1>
 <h3 align="center">Organiza tu vida de manera simple y efectiva"</h3>
 
