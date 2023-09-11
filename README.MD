@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, Mi nombre es Axel Guadalupe Jiménez Maltos</h1>
 <h3 align="center">Organiza tu vida de manera simple y efectiva"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axel705jimenez&label=Profile%20views&color=0e75b6&style=flat" alt="axel705jimenez" /> </p>
