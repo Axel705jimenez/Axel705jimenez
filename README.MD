@@ -1,3 +1,4 @@
+<div style="background-image: url('URL_DE_TU_IMAGEN'); background-size: cover; background-position: center; height: 300px;">
 <h1 align="center">Hi 👋, Mi nombre es Axel Guadalupe Jiménez Maltos</h1>
 <h3 align="center">Organiza tu vida de manera simple y efectiva"</h3>
 
@@ -15,4 +16,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axel705jimenez&show_icons=true&locale=en" alt="axel705jimenez" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axel705jimenez&" alt="axel705jimenez" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axel705jimenez&" alt="axel705jimenez" /></p> </div>
+
+
