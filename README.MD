@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, Mi nombre es Axel Guadalupe Jiménez Maltos</h1>
+<h1 align="center">Hola 👋, Mi nombre es Axel Guadalupe Jiménez Maltos</h1>
 <h3 align="center">Organiza tu vida de manera simple y efectiva"</h3>
 
 # 💫Sobre mi:
