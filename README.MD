@@ -9,7 +9,6 @@
 ## 🌐 Redes sociales:
 <p align="left">
 <a href="https://twitter.com/axel_jimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axel_jimal" height="30" width="40" /></a>
-<a href="https://twitter.com/axel_jimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axel_jimal" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@me/1150957106636275713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="axel_jimal" height="30" width="40" /></a>
 <a href="https://fb.com/axel jimenez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="axel jimenez" height="30" width="40" /></a>
 <a href="https://instagram.com/axeljimenez65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axeljimenez65" height="30" width="40" /></a>
