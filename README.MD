@@ -4,6 +4,8 @@
 
 # 💫Sobre mi:
 <br>¡Hola! Soy un estudiante de séptimo semestre de la carrera de Ingeniería en Informática. Mi nombre es Axel Guadalupe Jiménez Maltos, y estoy apasionado por el mundo de la tecnología y la programación. Durante mi trayectoria académica, he adquirido un sólido conocimiento en áreas como desarrollo de software, programación web, bases de datos y más.<br><br>Mi objetivo es seguir aprendiendo y creciendo en el campo de la informática, explorando nuevas tecnologías y desafiándome constantemente para desarrollar soluciones innovadoras. Además, me encanta compartir mis conocimientos y colaborar en proyectos que marcan la diferencia en el mundo digital.<br><br>Siempre estoy abierto a nuevas oportunidades de aprendizaje y colaboración. ¡No dudes en conectarte conmigo y explorar mi perfil para conocer más sobre mis proyectos y habilidades en el mundo de la informática!<br><br><br><br><br>
+<img src='https://i.pinimg.com/originals/7d/99/d5/7d99d50d6e8a74a91429e1ebf07307be.jpg' style="height: 200;"/>
+
 
 ## 🌐 Redes sociales:
 <p align="left">
@@ -26,7 +28,6 @@
 ### 😂 Meme Random
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<img src='https://i.pinimg.com/originals/7d/99/d5/7d99d50d6e8a74a91429e1ebf07307be.jpg' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Axel705jimenez&icon=0&color=0)](https://visitcount.itsvg.in)
